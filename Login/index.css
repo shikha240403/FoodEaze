@@ -1,0 +1,214 @@
+.login-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.login-login {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login-rectangle14 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 96px;
+  position: absolute;
+}
+.login-rectangle15 {
+  top: 155px;
+  left: 132px;
+  width: 1139px;
+  height: 810px;
+  position: absolute;
+  border-radius: 20px;
+}
+.login-fooeaze2 {
+  top: 30px;
+  left: 27px;
+  width: 274px;
+  height: 84px;
+  position: absolute;
+}
+.login-aminb101sushirestaurantdecor-traditional-japanese-tar {
+  top: 756px;
+  left: 2302px;
+  width: 405px;
+  height: 238px;
+  position: absolute;
+}
+.login-rectangle30 {
+  top: 258px;
+  left: 237px;
+  width: 966px;
+  height: 633px;
+  position: absolute;
+}
+.login-text10 {
+  top: 296px;
+  left: 271px;
+  color: rgba(0, 0, 0, 1);
+  width: 554px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Righteous;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-rectangle31 {
+  top: 367px;
+  left: 287px;
+  width: 830px;
+  height: 82px;
+  position: absolute;
+  border-radius: 30px;
+}
+.login-rectangle33 {
+  top: 581px;
+  left: 301px;
+  width: 830px;
+  height: 82px;
+  position: absolute;
+  border-radius: 30px;
+}
+.login-rectangle34 {
+  top: 678px;
+  left: 301px;
+  width: 830px;
+  height: 82px;
+  position: absolute;
+  border-radius: 30px;
+}
+.login-rectangle32 {
+  top: 464px;
+  left: 287px;
+  width: 830px;
+  height: 82px;
+  position: absolute;
+  border-radius: 30px;
+}
+.login-text12 {
+  color: rgb(0, 0, 0);
+  font-size: 36px;
+  font-family: "REM";
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
+}
+.login-text13 {
+  top: 484px;
+  left: 525px;
+  color: rgba(255, 255, 255, 1);
+  width: 764px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-line1 {
+  top: 566px;
+  left: 271px;
+  width: 890px;
+  height: 1px;
+  position: absolute;
+}
+.login-line2 {
+  top: 786px;
+  left: 266px;
+  width: 895px;
+  height: 1px;
+  position: absolute;
+}
+.login-text15 {
+  top: 601px;
+  left: 483px;
+  color: rgb(0, 0, 0);
+  width: 681px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-text16 {
+  font-weight: 400;
+}
+.login-text17 {
+  font-weight: 300;
+}
+.login-email {
+  top: 577px;
+  left: 370px;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+}
+.login-text18 {
+  top: 803px;
+  left: 291px;
+  color: rgb(0, 0, 0);
+  width: 675px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-text19 {
+  color: #000000;
+}
+.login-text20 {
+  font-weight: 700;
+}
+.login-google {
+  top: 688px;
+  left: 378px;
+  width: 75px;
+  height: 61px;
+  position: absolute;
+}
+.login-text21 {
+  top: 696px;
+  left: 481px;
+  color: rgb(0, 0, 0);
+  width: 552px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
