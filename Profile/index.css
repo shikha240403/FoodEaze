@@ -1,0 +1,362 @@
+.options-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.options-options {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.options-rectangle14 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 96px;
+  position: absolute;
+}
+.options-rectangle6 {
+  top: 138px;
+  left: 0px;
+  width: 1440px;
+  height: 269px;
+  position: absolute;
+}
+.options-fooeaze2 {
+  top: 30px;
+  left: 27px;
+  width: 274px;
+  height: 84px;
+  position: absolute;
+}
+.options-text10 {
+  top: 199px;
+  left: 58px;
+  color: rgba(255, 255, 255, 1);
+  width: 643px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.options-text11 {
+  color: rgba(255, 255, 255, 1);
+}
+.options-text13 {
+  color: rgba(255, 255, 255, 1);
+}
+.options-text14 {
+  color: rgba(0, 0, 0, 1);
+}
+.options-text16 {
+  color: rgba(0, 0, 0, 1);
+}
+.options-rectangle7 {
+  top: 319px;
+  left: 77px;
+  width: 174px;
+  height: 33px;
+  position: absolute;
+  border-radius: 30px;
+}
+.options-text22 {
+  top: 323px;
+  left: 104px;
+  color: rgba(255, 255, 255, 1);
+  width: 171px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.options-rectangle8 {
+  top: 138px;
+  left: 477.5px;
+  width: 962px;
+  height: 270px;
+  position: absolute;
+}
+.options-rectangle9 {
+  top: 199px;
+  left: 439px;
+  width: 461px;
+  height: 72px;
+  position: absolute;
+  border-radius: 20px;
+}
+.options-text24 {
+  top: 221px;
+  left: 499px;
+  color: rgba(0, 0, 0, 1);
+  width: 360px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.options-frameicon-user-circle {
+  top: 23px;
+  left: 1369px;
+  width: 50px;
+  height: 48.598731994628906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.options-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 49px;
+  position: absolute;
+}
+.options-frameiconbell {
+  top: 25px;
+  left: 1300px;
+  width: 39.598731994628906px;
+  height: 43.11241149902344px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.options-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 43px;
+  position: absolute;
+}
+.options-frameiconshoppingcart {
+  top: 26px;
+  left: 1231px;
+  width: 40px;
+  height: 43px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.options-vector3 {
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 43px;
+  position: absolute;
+}
+.options-text26 {
+  top: 438px;
+  left: 26px;
+  color: rgba(0, 0, 0, 1);
+  width: 675px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Righteous;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.options-text28 {
+  top: 673px;
+  left: 21px;
+  color: rgba(0, 0, 0, 1);
+  width: 675px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Righteous;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.options-frame1 {
+  top: 481px;
+  left: 0px;
+  width: 1440px;
+  height: 192px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.options-download1 {
+  top: 23px;
+  left: 992px;
+  width: 155px;
+  height: 155px;
+  position: absolute;
+}
+.options-download11 {
+  top: 23px;
+  left: 1179px;
+  width: 155px;
+  height: 155px;
+  position: absolute;
+}
+.options-pasta-primavera101 {
+  top: 23px;
+  left: 42px;
+  width: 155px;
+  height: 155px;
+  position: absolute;
+}
+.options-punjabialooparatha500x5001 {
+  top: 23px;
+  left: 244px;
+  width: 155px;
+  height: 155px;
+  position: absolute;
+}
+.options-salamipizzahero1 {
+  top: 23px;
+  left: 431px;
+  width: 155px;
+  height: 155px;
+  position: absolute;
+}
+.options-images41 {
+  top: 23px;
+  left: 618px;
+  width: 155px;
+  height: 155px;
+  position: absolute;
+}
+.options-images31 {
+  top: 23px;
+  left: 805px;
+  width: 155px;
+  height: 155px;
+  position: absolute;
+}
+.options-salamipizzahero2 {
+  top: 23px;
+  left: 1920px;
+  width: 155px;
+  height: 155px;
+  position: absolute;
+}
+.options-pasta-primavera102 {
+  top: 23px;
+  left: 1724px;
+  width: 155px;
+  height: 155px;
+  position: absolute;
+}
+.options-images51 {
+  top: 23px;
+  left: 1354px;
+  width: 155px;
+  height: 155px;
+  position: absolute;
+}
+.options-image360f602770167-yuav-m-od-fe8-kevg-i-syiu-fsj9-sqvfxgd-vs {
+  top: 23px;
+  left: 1539px;
+  width: 155px;
+  height: 155px;
+  position: absolute;
+}
+.options-aminb101sushirestaurantdecor-traditional-japanese-tar {
+  top: 756px;
+  left: 2302px;
+  width: 405px;
+  height: 238px;
+  position: absolute;
+}
+.options-frame2 {
+  top: 722px;
+  left: 0px;
+  width: 1440px;
+  height: 306px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.options-download71 {
+  top: 33px;
+  left: 477px;
+  width: 409px;
+  height: 240px;
+  position: absolute;
+}
+.options-download61 {
+  top: 33px;
+  left: 925px;
+  width: 409px;
+  height: 240px;
+  position: absolute;
+}
+.options-download51 {
+  top: 33px;
+  left: 1373px;
+  width: 409px;
+  height: 240px;
+  position: absolute;
+}
+.options-download91 {
+  top: 33px;
+  left: 1821px;
+  width: 409px;
+  height: 240px;
+  position: absolute;
+}
+.options-download92 {
+  top: 33px;
+  left: 2717px;
+  width: 409px;
+  height: 240px;
+  position: absolute;
+}
+.options-download81 {
+  top: 33px;
+  left: 29px;
+  width: 409px;
+  height: 240px;
+  position: absolute;
+}
+.options-download72 {
+  top: 33px;
+  left: 2269px;
+  width: 409px;
+  height: 240px;
+  position: absolute;
+}
