@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="english">
+<head>
+    <title>SIGN UP</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta property="twitter:card" content="summary_large_image" />
+
+    <style data-tag="reset-style-sheet">
+        html { line-height: 1.15; } 
+        body { margin: 0; } 
+        * { box-sizing: border-box; border-width: 0; border-style: solid; } 
+        p, li, ul, pre, div, h1, h2, h3, h4, h5, h6, figure, blockquote, figcaption { margin: 0; padding: 0; } 
+        button { background-color: transparent; } 
+        button, input, optgroup, select, textarea { font-family: inherit; font-size: 100%; line-height: 1.15; margin: 0; } 
+        button, select { text-transform: none; } 
+        button, [type="button"], [type="reset"], [type="submit"] { -webkit-appearance: button; } 
+        button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-moz-focus-inner, [type="submit"]::-moz-focus-inner { border-style: none; padding: 0; } 
+        button:-moz-focus, [type="button"]:-moz-focus, [type="reset"]:-moz-focus, [type="submit"]:-moz-focus { outline: 1px dotted ButtonText; } 
+        a { color: inherit; text-decoration: inherit; } 
+        input { padding: 2px 4px; } 
+        img { display: block; } 
+        html { scroll-behavior: smooth; }
+    </style>
+    <style data-tag="default-style-sheet">
+        html {
+            font-family: Inter;
+            font-size: 16px;
+        }
+
+        body {
+            font-weight: 400;
+            font-style: normal;
+            text-decoration: none;
+            text-transform: none;
+            letter-spacing: normal;
+            line-height: 1.15;
+            color: var(--dl-color-theme-neutral-dark);
+            background: var(--dl-color-theme-neutral-light);
+            fill: var(--dl-color-theme-neutral-dark);
+        }
+
+        .signup-agree-button {
+            background-color: transparent; /* Blank background */
+            border: none; /* No border */
+            cursor: pointer; /* Change cursor on hover */
+            font-size: 16px; /* Adjust font size */
+            padding: 0; /* Remove padding */
+            display: inline-flex; /* Align tick and button */
+            align-items: center; /* Center vertically */
+        }
+
+        .tick-icon {
+            margin-left: 8px; /* Space between text and tick */
+            color: #007bff; /* Color of the tick */
+            display: none; /* Initially hidden */
+        }
+
+        /* New styles for input prompt text */
+        .input-prompt {
+            cursor: pointer;
+            /* color: #007bff; Change this to your preferred color */
+            text-decoration: underline; /* Add underline for clarity */
+        }
+    </style>
+    <link rel="stylesheet" href="https://unpkg.com/animate.css@4.1.1/animate.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;1,400&display=swap" />
+    <link rel="stylesheet" href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css" />
+</head>
+<body>
+    <link rel="stylesheet" href="./style.css" />
+    <div>
+        <link href="./index.css" rel="stylesheet" />
+
+        <div class="signup-container">
+            <div class="signup-signup">
+                <img src="public/external/rectangle141206-ikvb-200h.png" alt="Rectangle141206" class="signup-rectangle14" />
+                <img src="public/external/rectangle151207-qpb7-900h.png" alt="Rectangle151207" class="signup-rectangle15" />
+                <img src="public/external/fooeaze21208-dcy-200h.png" alt="fooeaze21208" class="signup-fooeaze2" />
+                <img src="public/external/aminb101sushirestaurantdecortraditionaljapanesetar1209-cprs-500w.png" alt="aminb101sushirestaurantdecorTraditionalJapaneseTar1209" class="signup-aminb101sushirestaurantdecor-traditional-japanese-t ar" />
+                <img src="public/external/rectangle301210-gce4-800h.png" alt="Rectangle301210" class="signup-rectangle30" />
+                
+                <span class="signup-text10">
+                    <button class="signup-agree-button" id="agree-button">
+                        <span class="tick-icon" id="tick-icon">✔️</span>
+                        <span class="signup-text11">I agree to FoodEaze</span>
+                    </button>
+                    <span class="signup-text12">&nbsp;</span>
+                    <span class="signup-text13">Terms of Service</span>
+                    <span class="signup-text14">,</span>
+                    <span class="signup-text15">&nbsp;</span>
+                    <span class="signup-text16">Privacy Policy</span>
+                    <span class="signup-text17">&nbsp;</span>
+                    <span class="signup-text18">and</span>
+                    <span class="signup-text19">&nbsp;</span>
+                    <span class="signup-text20">Content Policies</span>
+                </span>
+
+                <span class="signup-text21"><span>Signup</span></span>
+                <img src="public/external/rectangle311213-ou58-200h.png" alt="Rectangle311213" class="signup-rectangle31" />
+                <img src="public/external/rectangle351214-flyj-200h.png" alt="Rectangle351214" class="signup-rectangle35" />
+                <img src="public/external/rectangle361215-krcr-200h.png" alt="Rectangle361215" class="signup-rectangle36" />
+                <img src="public/external/rectangle371216-tkcx-200h.png" alt="Rectangle371216" class="signup-rectangle37" />
+                <img src="public/external/rectangle391217-r3a-200h.png" alt="Rectangle391217" class="signup-rectangle39" />
+                <img src="public/external/line21218-j9o.svg" alt="Line21218" class="signup-line2" />
+                <img src="public/external/line31219-wfrm.svg" alt="Line31219" class="signup-line3" />
+                <span class="signup-text23">
+                    <span class="signup-text24">Already Have an Account?</span>
+                    <span class="signup-text25"><a href="F:\foodeaze\login\index.html">Login</a></span>
+                </span>
+                <span class="signup-text26">
+                    <span class="signup-text27">
+                        <span class="input-prompt" onclick="showPrompt('Full Name')">Enter Full Name</span>
+                    </span>
+                </span>
+                <span class="signup-text29">
+                    <span class="input-prompt" onclick="showPrompt('Phone Number')">Enter Phone Number</span>
+                </span>
+                <span class="signup-text30">
+                    <span class="input-prompt" onclick="showPrompt('Address')">Address</span>
+                </span>
+                <span class="signup-text32">
+                    <span class="input-prompt" onclick="showPrompt('Email address')">Enter Email address</span>
+                </span>
+                <img src="public/external/rectangle381225-czoe-200h.png" alt="Rectangle381225" class="signup-rectangle38" />
+                <span class="signup-text34">
+                    <span class="input-prompt" onclick="showPrompt('Google account')">Sign in with Google</span>
+                </span>
+                <img src="public/external/google1227-73g-200h.png" alt="Google1227" class="signup-google" />
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById("agree-button").addEventListener("click", function() {
+            const tickIcon = document.getElementById("tick-icon");
+            tickIcon.style.display = tickIcon.style.display === "none" ? "inline" : "none";
+        });
+
+        function showPrompt(field) {
+            let userInput = prompt(`Please enter your ${field}:`);
+
+            if (userInput === null) {
+                //alert(`${field} entry canceled.`);
+                return; // Stops further execution if user clicks 'Cancel'
+            }
+
+            if (field === 'Full Name') {
+                validateName(userInput);
+            } else if (field === 'Email address') {
+                if (isValidEmail(userInput)) {
+                    promptForPassword(userInput);
+                } else {
+                    alert("Please enter a valid email address.");
+                    showPrompt(field);
+                }
+            } else if (field === 'Address') {
+                console.log(`Address: ${userInput}`);
+            } else if (field === 'Google account') {
+                if (confirm("Sign in with Google?")) {
+                    // Simulate Google sign-in
+                    console.log("Signed in with Google");
+                } else {
+                    alert("Google sign-in canceled.");
+                }
+            }
+        }
+
+        function validateName(name) {
+            if (!/^[A-Za-z\s]+$/.test(name)) {
+                alert("Please enter a valid name (letters and spaces only, no digits or special symbols).");
+                showPrompt('Full Name');
+            } else {
+                console.log(`Full Name: ${name}`);
+                localStorage.setItem("userName", name);
+            }
+        }
+
+        function isValidEmail(email) {
+            const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+            return emailPattern.test(email);
+        }
+
+        function promptForPassword(email) {
+            let password = prompt(`Please enter your password for ${email}:`);
+            if (password === null) {
+                alert("Password entry canceled.");
+                return; // Stops further execution if user clicks 'Cancel'
+            } else if (password) {
+                console.log(`Email: ${email}, Password: ${password}`);
+                window.location.href = "F:/foodeaze/profile/index.html";
+            } else {
+                alert("Password cannot be empty. Please try again.");
+                promptForPassword(email);
+            }
+        }
+    </script>
+</body>
+</html>

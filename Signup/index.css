@@ -1,0 +1,301 @@
+.signup-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.signup-signup {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.signup-rectangle14 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 96px;
+  position: absolute;
+}
+.signup-rectangle15 {
+  top: 125px;
+  left: 126px;
+  width: 1139px;
+  height: 843px;
+  position: absolute;
+  border-radius: 20px;
+}
+.signup-fooeaze2 {
+  top: 30px;
+  left: 27px;
+  width: 274px;
+  height: 84px;
+  position: absolute;
+}
+.signup-aminb101sushirestaurantdecor-traditional-japanese-tar {
+  top: 756px;
+  left: 2302px;
+  width: 405px;
+  height: 238px;
+  position: absolute;
+}
+.signup-rectangle30 {
+  top: 181px;
+  left: 219px;
+  width: 966px;
+  height: 731px;
+  position: absolute;
+}
+.signup-text10 {
+  top: 577px;
+  left: 372px;
+  width: 748px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-text11 {
+  color: #000000;
+  font-size: 20px;
+}
+.signup-text12 {
+  color: #000000;
+  text-decoration: none;
+  font-size: 20px;
+}
+.signup-text13 {
+  color: #f91313;
+  text-decoration: underline;
+  font-size: 20px;
+}
+.signup-text14 {
+  color: #000000;
+  font-size: 20px;
+}
+.signup-text15 {
+  color: #000000;
+  text-decoration: none;
+  font-size: 20px;
+}
+.signup-text16 {
+  color: #ff0000;
+  text-decoration: underline;
+  font-size: 20px;
+}
+.signup-text17 {
+  color: #f41515;
+  font-size: 20px;
+}
+.signup-text18 {
+  color: #000000;
+  font-size: 20px;
+}
+.signup-text19 {
+  color: #000000;
+  text-decoration: none;
+  font-size: 20px;
+}
+.signup-text20 {
+  color: #ff0000;
+  text-decoration: underline;
+  font-size: 20px;
+}
+.signup-text21 {
+  top: 208px;
+  left: 257px;
+  color: rgba(0, 0, 0, 1);
+  width: 554px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Righteous;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-rectangle31 {
+  top: 272px;
+  left: 301px;
+  width: 420px;
+  height: 82px;
+  position: absolute;
+  border-radius: 30px;
+}
+.signup-rectangle35 {
+  top: 272px;
+  left: 734px;
+  width: 407px;
+  height: 82px;
+  position: absolute;
+  border-radius: 30px;
+}
+.signup-rectangle36 {
+  top: 371px;
+  left: 296px;
+  width: 845px;
+  height: 82px;
+  position: absolute;
+  border-radius: 30px;
+}
+.signup-rectangle37 {
+  top: 471px;
+  left: 301px;
+  width: 840px;
+  height: 82px;
+  position: absolute;
+  border-radius: 30px;
+}
+.signup-rectangle39 {
+  top: 661px;
+  left: 301px;
+  width: 840px;
+  height: 82px;
+  position: absolute;
+  border-radius: 30px;
+}
+.signup-line2 {
+  top: 785.5px;
+  left: 265.9997253417969px;
+  width: 895px;
+  height: 1px;
+  position: absolute;
+}
+.signup-line3 {
+  top: 618px;
+  left: 271px;
+  width: 895px;
+  height: 1px;
+  position: absolute;
+}
+.signup-text23 {
+  top: 803px;
+  left: 291px;
+  color: rgb(0, 0, 0);
+  width: 675px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-text24 {
+  color: #000000;
+}
+.signup-text25 {
+  font-weight: 700;
+}
+.signup-text26 {
+  top: 297px;
+  left: 342px;
+  color: rgba(0, 0, 0, 1);
+  width: 372px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-text27 {
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: "Poppins";
+  font-weight: 200;
+  line-height: normal;
+  text-decoration: none;
+}
+.signup-text29 {
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: "Poppins";
+  font-weight: 200;
+  line-height: normal;
+  text-decoration: none;
+}
+.signup-text30 {
+  top: 396px;
+  left: 347px;
+  color: rgba(0, 0, 0, 1);
+  width: 727px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-text32 {
+  top: 490px;
+  left: 349px;
+  color: rgba(0, 0, 0, 1);
+  width: 752px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-rectangle38 {
+  top: 576px;
+  left: 342px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+}
+.signup-text34 {
+  top: 681px;
+  left: 481px;
+  color: rgba(0, 0, 0, 1);
+  width: 754px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-google {
+  top: 671px;
+  left: 392px;
+  width: 75px;
+  height: 61px;
+  position: absolute;
+}
